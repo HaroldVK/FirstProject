@@ -1,2 +1,4 @@
 # 16122016FRIDEC-FirstProject
-First GitHub project at Codecademy
+Hello World of Beautiful People
+
+This is my first GitHub project at Codecademy
